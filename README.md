@@ -689,4 +689,4 @@ python runner.py basica
 cd ../notebooks && jupyter notebook
 ```
 
-**🎯 O sistema está pronto para uso em produção e análises profissionais!**
+⭐ Se este projeto te ajudou, deixe uma estrela!
