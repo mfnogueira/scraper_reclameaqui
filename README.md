@@ -690,3 +690,6 @@ cd ../notebooks && jupyter notebook
 ```
 
 ⭐ Se este projeto te ajudou, deixe uma estrela!
+
+google-site-verification: google465fb92990e4dc99.html
+
